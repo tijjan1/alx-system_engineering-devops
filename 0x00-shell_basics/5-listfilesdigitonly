@@ -1,2 +1,2 @@
 #!/bin/bash
-lss -l [0-9]*
+ls -al
